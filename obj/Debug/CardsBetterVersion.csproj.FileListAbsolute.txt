@@ -1,0 +1,13 @@
+E:\C#\.Net Programing\C#_Projecs\CardsBetterVersion\CardsBetterVersion\bin\Debug\CardsBetterVersion.exe.config
+E:\C#\.Net Programing\C#_Projecs\CardsBetterVersion\CardsBetterVersion\bin\Debug\CardsBetterVersion.exe
+E:\C#\.Net Programing\C#_Projecs\CardsBetterVersion\CardsBetterVersion\bin\Debug\CardsBetterVersion.pdb
+E:\C#\.Net Programing\C#_Projecs\CardsBetterVersion\CardsBetterVersion\obj\Debug\CardsBetterVersion.csprojResolveAssemblyReference.cache
+E:\C#\.Net Programing\C#_Projecs\CardsBetterVersion\CardsBetterVersion\obj\Debug\CardsBetterVersion.CardsResource.resources
+E:\C#\.Net Programing\C#_Projecs\CardsBetterVersion\CardsBetterVersion\obj\Debug\CardsBetterVersion.Properties.Resources.resources
+E:\C#\.Net Programing\C#_Projecs\CardsBetterVersion\CardsBetterVersion\obj\Debug\CardsBetterVersion.csproj.GenerateResource.Cache
+E:\C#\.Net Programing\C#_Projecs\CardsBetterVersion\CardsBetterVersion\obj\Debug\CardsBetterVersion.exe
+E:\C#\.Net Programing\C#_Projecs\CardsBetterVersion\CardsBetterVersion\obj\Debug\CardsBetterVersion.pdb
+E:\C#\.Net Programing\C#_Projecs\CardsBetterVersion\CardsBetterVersion\obj\Debug\CardsBetterVersion.Cards.resources
+E:\C#1\projects\CardsBetterVersion\CardsBetterVersion\bin\Debug\CardsBetterVersion.exe.config
+E:\C#1\projects\CardsBetterVersion\CardsBetterVersion\obj\Debug\CardsBetterVersion.exe
+E:\C#1\projects\CardsBetterVersion\CardsBetterVersion\obj\Debug\CardsBetterVersion.pdb
